@@ -19,7 +19,7 @@ This is a Node.js REST API that accepts latitude and longitude as input paramete
 3. Create MongoDB Atlas
    ```sh
    How to Create and Connect MongoDB Atlas Database in Node JS MongoDB - MongoDB Atlas connects Node JS
-   [MongoDB]https://www.youtube.com/watch?v=tkAmFt64DCk
+   Go ahead to [MongoDB](https://www.youtube.com/watch?v=tkAmFt64DCk) and install it.
 
 4. Update mongoDB URI 
    ```
