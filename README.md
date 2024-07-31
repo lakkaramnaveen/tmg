@@ -12,6 +12,7 @@ This is a Node.js REST API that accepts latitude and longitude as input paramete
    npm init
 
 # Install dependencies
+   ```sh
    npm install
    git init
 
