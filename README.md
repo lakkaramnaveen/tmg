@@ -33,4 +33,5 @@ This is a Node.js REST API that accepts latitude and longitude as input paramete
    npm start
 
 6. Access or hit the below url for checking the users in particular location
+   ```sh
    http://localhost:3000/api/users?latitude=40.7128&longitude=-74.0060
