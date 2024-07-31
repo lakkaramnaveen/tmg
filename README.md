@@ -27,5 +27,10 @@ This is a Node.js REST API that accepts latitude and longitude as input paramete
    MONGODB_URI=
 
 5. Run
+   Please run below command
    ```sh
-   Please run - npm 
+   node addSampleData.js
+   npm start
+
+6. Access or hit the below url for checking the users in particular location
+   http://localhost:3000/api/users?latitude=40.7128&longitude=-74.0060
