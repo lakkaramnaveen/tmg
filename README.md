@@ -11,13 +11,17 @@ This is a Node.js REST API that accepts latitude and longitude as input paramete
    cd node-rest-api
    npm init
 
-# Install dependencies
+2. Install dependencies
    ```sh
    npm install
    git init
 
-# Create MongoDB Atlas
+3. Create MongoDB Atlas
+   ```sh
    How to Create and Connect MongoDB Atlas Database in Node JS MongoDB - MongoDB Atlas connects Node JS
    https://www.youtube.com/watch?v=tkAmFt64DCk
 
-# Update mongoDB URI 
+4. Update mongoDB URI 
+   ```
+   Go to .env file, paste your mongodb atlas url here
+   MONGODB_URI=
